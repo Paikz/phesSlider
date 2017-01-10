@@ -1,6 +1,6 @@
   (function ($) {
 
-      $.fn.phes15Slider = function(options) {
+      $.fn.phesSlider = function(options) {
 
       return this.each(function () {
 
