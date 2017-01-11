@@ -10,13 +10,13 @@ Less - Leaner CSS v2.7.1
 ##Installation:
 
 Paste this snippet of code into your header:
-
+```
 <link rel="stylesheet/less" type="text/css" href="phesslider.less"> 
-
+```
 Paste this snippet of code into the bottom of your body:
-
+```
 <script src="phesslider.js"></script> 
-
+```
 ##How to use:
 Use this code along with the .less file:
 
