@@ -20,26 +20,31 @@ Paste this snippet of code into the bottom of your body:
 ##How to use:
 Use this code along with the .less file:
 
-```<div id="container1">
+```
+<div id="container1">
  <div class="main">
   <div class="sidebar"></div>
  </div>
-</div>```
+</div>
+```
 
 ##Options:
 You can do the easy and simple setup which is just throwing in your images you want to show. The slider will be set to horizontal and you will get the default handle.
 
-```$('#container1').phesSlider({
+```
+$('#container1').phesSlider({
   img1: "img/bestslidersample2.png",
   img2: "img/bestslidersample.png"
-});```
+});
+```
 
 You also have the option to choose either horizontal or vertical slide. (Set height for vertical and width for horizontal.) There is also the option to add your own custom handle for the slider. The plugin comes with a few simple handles. One of them vertical. The handle chosen will be resized down to 40x40 pixels as default.
-
-```$('#container2').phesSlider({
+```
+$('#container2').phesSlider({
   img1: "img/posterColorless.jpg",
   img2: "img/posterColor.jpg",
   direction: "vertical",
   height: 350,
   handle: "img/handleV.png"
-});```
+});
+```
