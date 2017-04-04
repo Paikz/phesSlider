@@ -2,12 +2,12 @@
 
 phesSlider is a comparison slider jQuery plugin. It is free, very simple to setup and use and has great customization.
 
-#Requirements:
+## Requirements:
 jQuery JavaScript Library v1.8.3
 
 Less - Leaner CSS v2.7.1
 
-#Installation:
+## Installation:
 
 Paste this snippet of code into your header:
 ```
@@ -17,7 +17,7 @@ Paste this snippet of code into the bottom of your body:
 ```
 <script src="phesslider.js"></script> 
 ```
-#How to use:
+## How to use:
 Use this code along with the .less file:
 
 ```
@@ -28,7 +28,7 @@ Use this code along with the .less file:
 </div>
 ```
 
-#Options:
+## Options:
 You can do the easy and simple setup which is just throwing in your images you want to show. The slider will be set to horizontal and you will get the default handle.
 
 ```
